@@ -84,7 +84,7 @@ I am currently building a retrieval-augmented generation project for domain-spec
 - 🎓 **M.Eng. Engineering Sciences – Mechatronics**, Technische Hochschule Rosenheim
 - 🏢 **Machine Learning / Computer Vision Engineer**, Automation W+R GmbH, Munich
 - ⚙️ Experience with industrial inspection systems, 2D/3D surface data, anomaly detection, and engineering validation workflows
-- 📍 Based in Rosenheim, Germany — open to roles in Germany, Luxembourg, and remote/hybrid EU opportunities
+- 📍 Based in Rosenheim, Germany — open to onsite/remote/hybrid opportunities in EU
 - 🌐 English C1 · German B1, actively improving
 
 ---
