@@ -63,7 +63,7 @@ The original code and data are proprietary, so this repository documents the arc
 NDA-safe methodology repository based on my Master's thesis at Automation W+R GmbH.  
 Documents the problem setup, dataset preparation, autoencoder-based anomaly detection, HALCON benchmarking, failure analysis, and deployment-oriented design for industrial 2D/3D weld-seam inspection.
 
-[View repository](https://github.com/Pranavc/weld-seam-anomaly-detection-methodology)
+[View repository](https://github.com/Pranavc25/weld-seam-anomaly-detection-methodology)
 
 ---
 
