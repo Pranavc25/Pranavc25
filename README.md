@@ -44,6 +44,7 @@ SQL-driven analysis of marketplace order data to understand delivery performance
 
 `SQL` `DuckDB` `Python` `pandas` `SciPy` `A/B testing` `Hypothesis testing` `Operational analytics`
 
+[View project](https://github.com/Pranavc25/ecommerce-operational-analytics)
 ---
 
 ### 🏭 Industrial Anomaly Detection — Welding Seam Inspection
